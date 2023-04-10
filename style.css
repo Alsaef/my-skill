@@ -1,0 +1,44 @@
+.relative {
+    position: relative;
+    left: 96%;
+    bottom: 27px;
+
+}
+
+.relative1 {
+    position: relative;
+    left: 93%;
+    bottom: 27px;
+
+}
+
+.relative2 {
+    position: relative;
+    left: 84%;
+    bottom: 27px;
+
+}
+
+.relative3 {
+    position: relative;
+    left: 59%;
+    bottom: 27px;
+
+}
+
+.possition {
+    position: absolute;
+}
+.html{
+    color: orangered; 
+}
+.bg-success-skill, .bg-danger-skill{
+    background-color: orangered;
+    
+}
+.bt{
+    color: blueviolet;
+}
+.bg-bootstrap,.bg-warning-bootstrap{
+    background-color: blueviolet;
+}
